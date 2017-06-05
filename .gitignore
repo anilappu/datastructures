@@ -1,0 +1,58 @@
+*.swp
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+bin/
+target/
+reports/
+test-output/
+Thumbs.db
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+*.lib
+*.sbr
+.metadata
+.idea/
+*.index
+*.hprof
+*.threads
+*.zip
+*.classpath
+*.project
+*.DS_Store
+	lib/.DS_Store
+	src/main/java/.DS_Store
+	src/main/java/com/.DS_Store
+	src/main/java/com/lendingclub/.DS_Store
+	src/main/java/com/lendingclub/borrower/.DS_Store
+	src/main/java/com/lendingclub/borrower/common/.DS_Store
+	src/main/java/com/lendingclub/jenkinsjobs/.DS_Store
+	src/main/resources/.DS_Store
+	src/test/.DS_Store
+	src/test/java/.DS_Store
+	src/test/java/com/.DS_Store
+	src/test/java/com/lendingclub/.DS_Store
+	src/test/java/com/lendingclub/qa/.DS_Store
+	src/test/java/com/lendingclub/qa/tests/.DS_Store
+	src/test/java/com/lendingclub/qa/tests/lcui/.DS_Store
+	src/test/resources/.DS_Store
+	src/test/resources/XLS_DATA/.DS_Store
+*.png
